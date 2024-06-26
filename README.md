@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Surya
 - 👀 I’m interested in ...Software Developing
 - 🌱 I’m currently learning ...PHP and Laravel
-- 📫 How to reach me ...you can reach me @jayasuryab2001@gmail.com
+- 📫 How to reach me ...you can reach me out @jayasuryab2001@gmail.com
